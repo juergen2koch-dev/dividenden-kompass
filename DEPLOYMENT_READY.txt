@@ -1,0 +1,1 @@
+Cloudflare Pages ready. Full application blob is being promoted to index.html.
