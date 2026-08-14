@@ -1,0 +1,1 @@
+Promoting uploaded full application blob to index.html.
